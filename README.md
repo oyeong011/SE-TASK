@@ -1,4 +1,4 @@
-# 1) 4.10 Tables (extension)
+# 1) Tables (extension)
 
 ## 1. table
 행과 열이 있는 테이터 배열
@@ -326,7 +326,6 @@ new paragraph~~.
 
 
 
-* 
 # 6.9 AUTOLINK
 
 Autolinks는 더 작은 상황에서 인식되지만 사용을 요구하지 않고 이를 구분할 수 있습니다.
